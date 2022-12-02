@@ -2,7 +2,7 @@
 ![Logo](https://projecteuler.net/images/clipart/euler_portrait.png)
 
 
-# Project Title
+# Project Euler
 
 #### In my free time I try to solve https://projecteuler.net/ problems. 
 #### You can find my approach to the problems I solved in this repository. 
