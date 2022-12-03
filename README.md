@@ -4,7 +4,7 @@
 
 # Project Euler
 
-#### In my free time I try to solve https://projecteuler.net/ problems. 
+#### In my spare time I try to solve https://projecteuler.net/ problems for fun. 
 #### You can find my approach to the problems I solved in this repository. 
 ## Acknowledgements
 
@@ -14,8 +14,10 @@
 ![Logo](https://www.python.org/static/img/python-logo.png)
 
 ## References
-##### [Quesiton 1](https://github.com/mstft/ProjectEuler/blob/master/Question1.py): nr (no reference)
-##### [Quesiton 2](https://github.com/mstft/ProjectEuler/blob/master/Question2.py): [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
-##### [Quesiton 3](https://github.com/mstft/ProjectEuler/blob/master/Question3.py): [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
-##### [Quesiton 4](https://github.com/mstft/ProjectEuler/blob/master/Question4.py): nr
-##### [Quesiton 5](https://github.com/mstft/ProjectEuler/blob/master/Question5.py): nr
+##### [Quesiton 1](https://github.com/mstft/ProjectEuler/blob/master/Question_1.py): nr (no reference)
+##### [Quesiton 2](https://github.com/mstft/ProjectEuler/blob/master/Question_2.py): [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
+##### [Quesiton 3](https://github.com/mstft/ProjectEuler/blob/master/Question_3.py): [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
+##### [Quesiton 4](https://github.com/mstft/ProjectEuler/blob/master/Question_4.py): nr
+##### [Quesiton 5](https://github.com/mstft/ProjectEuler/blob/master/Question_5.py): nr
+##### [Quesiton 6](https://github.com/mstft/ProjectEuler/blob/master/Question_6.py): [Sum of squares](https://www.cuemath.com/algebra/sum-of-squares/)
+##### [Quesiton 7](https://github.com/mstft/ProjectEuler/blob/master/Question_7.py): nr
