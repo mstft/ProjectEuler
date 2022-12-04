@@ -22,5 +22,6 @@
 ##### [Quesiton 6](https://github.com/mstft/ProjectEuler/blob/master/Question_6.py): [Sum of squares](https://www.cuemath.com/algebra/sum-of-squares/)
 ##### [Quesiton 7](https://github.com/mstft/ProjectEuler/blob/master/Question_7.py): nr
 ##### [Quesiton 8](https://github.com/mstft/ProjectEuler/blob/master/Question_8.py): nr
-##### [Quesiton 9](https://github.com/mstft/ProjectEuler/blob/master/Question_8.py): nr
-##### [Quesiton 10](https://github.com/mstft/ProjectEuler/blob/master/Question_8.py): [Sieve_of_Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+##### [Quesiton 9](https://github.com/mstft/ProjectEuler/blob/master/Question_9.py): nr
+##### [Quesiton 10](https://github.com/mstft/ProjectEuler/blob/master/Question_10.py): [Sieve_of_Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+##### [Quesiton 11](https://github.com/mstft/ProjectEuler/blob/master/Question_11.py): nr
