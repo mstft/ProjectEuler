@@ -23,5 +23,6 @@
 ##### [Quesiton 7](https://github.com/mstft/ProjectEuler/blob/master/Question_7.py): nr
 ##### [Quesiton 8](https://github.com/mstft/ProjectEuler/blob/master/Question_8.py): nr
 ##### [Quesiton 9](https://github.com/mstft/ProjectEuler/blob/master/Question_9.py): nr
-##### [Quesiton 10](https://github.com/mstft/ProjectEuler/blob/master/Question_10.py): [Sieve_of_Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+##### [Quesiton 10](https://github.com/mstft/ProjectEuler/blob/master/Question_10.py): [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 ##### [Quesiton 11](https://github.com/mstft/ProjectEuler/blob/master/Question_11.py): nr
+##### [Quesiton 12](https://github.com/mstft/ProjectEuler/blob/master/Question_12.py): [Divisor Function](https://en.wikipedia.org/wiki/Divisor_function)
