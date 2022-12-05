@@ -5,11 +5,13 @@
 # Project Euler
 
 #### In my spare time I try to solve https://projecteuler.net/ problems for fun. 
-#### You can find my approach to the problems I solved in this repository. 
+#### You can find my solutions to the some of the problems in this repository. 
 ## Acknowledgements
 
-* I share these solutions for to share my approach to the problems. 
-* But I strongly recommend you to solve questions by yourself and later check related solution.
+* I share these solutions to give a detail explanation for some of the Project Euler's problems. 
+* But I strongly recommend you first to solve questions by yourself and later compare with my solutions.
+* I will try to share my solutions for the first one hundred problems. As it is not allowed for the rest.
+
 ## 🛠 Used Language
 ![Logo](https://www.python.org/static/img/python-logo.png)
 
@@ -26,3 +28,4 @@
 ##### [Quesiton 10](https://github.com/mstft/ProjectEuler/blob/master/Question_10.py): [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 ##### [Quesiton 11](https://github.com/mstft/ProjectEuler/blob/master/Question_11.py): nr
 ##### [Quesiton 12](https://github.com/mstft/ProjectEuler/blob/master/Question_12.py): [Divisor Function](https://en.wikipedia.org/wiki/Divisor_function)
+##### [Quesiton 13](https://github.com/mstft/ProjectEuler/blob/master/Question_13.py): nr
