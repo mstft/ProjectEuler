@@ -29,3 +29,4 @@
 ##### [Quesiton 11](https://github.com/mstft/ProjectEuler/blob/master/Question_11.py): nr
 ##### [Quesiton 12](https://github.com/mstft/ProjectEuler/blob/master/Question_12.py): [Divisor Function](https://en.wikipedia.org/wiki/Divisor_function)
 ##### [Quesiton 13](https://github.com/mstft/ProjectEuler/blob/master/Question_13.py): nr
+##### [Quesiton 14](https://github.com/mstft/ProjectEuler/blob/master/Question_14.py): nr
