@@ -37,4 +37,5 @@
 ##### [Quesiton 19](https://github.com/mstft/ProjectEuler/blob/master/Question_19.py): Datetime
 ##### [Quesiton 20](https://github.com/mstft/ProjectEuler/blob/master/Question_20.py): Factorial
 ##### [Quesiton 21](https://github.com/mstft/ProjectEuler/blob/master/Question_21.py): Divisors - Amicable numbers
+##### [Quesiton 22](https://github.com/mstft/ProjectEuler/blob/master/Question_22.py): nr
 ##### [Quesiton 67](https://github.com/mstft/ProjectEuler/blob/master/Question_67.py): Same code used to solve Question - 18
